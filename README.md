@@ -3,10 +3,13 @@ Stuff
 
 
 **Division List**
-*Ground Crew*
-*Security*
+
+*Ground Crew*,
+*Security*,
+
 *Cabin Crew*
 
 President: Aris
+
 Vice President: Flygplan1
 
